@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/appframework-1.0.3.jar lib/swing-worker-1.1.jar lib/log4j-1.2.15.jar lib/bcmail-jdk14-140.jar lib/bcprov-jdk14-140.jar lib/log4j-1.2.15.jar  lib/org.apache.commons.logging_1.0.4.v200706111724.jar  lib/sapjco.jar config/log4j.properties
+Main-Class: br.com.golive.token.TokenReader
+

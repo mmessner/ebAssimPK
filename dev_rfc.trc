@@ -1,0 +1,121 @@
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:13 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+>TS> Tue Dec 22 11:32:35 2009
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:35 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+>TS> Tue Dec 22 11:32:58 2009
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+>TS> Tue Dec 22 11:33:23 2009
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+>TS> Tue Dec 22 11:33:52 2009
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+>TS> Tue Dec 22 11:34:29 2009
+T:5796 Error in program 'Dummy': ======> Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:34:29 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+

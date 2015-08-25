@@ -1,0 +1,2361 @@
+2009-09-04 14:09:46,656 [main:] 1172 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-09-04 14:09:48,984 [main:] 3500 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-09-04 14:10:07,781 [JCO.ServerThread-1:] 22297 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Sep 04 14:10:07 GMT-03:00 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host ccambra
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Sep 04 14:10:07 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Sep 04 14:10:07 GMT-03:00 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host ccambra
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Sep 04 14:10:07 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 14:21:05,781 [main:] 969 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 14:21:08,031 [main:] 3219 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 14:21:26,937 [JCO.ServerThread-1:] 22125 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:21:26 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:21:26 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 14:21:26 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:21:26 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 14:21:49,109 [JCO.ServerThread-1:] 44297 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:21:49 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:21:49 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 14:21:49 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:21:49 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 14:22:12,312 [JCO.ServerThread-1:] 67500 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:22:12 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:22:12 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 14:22:12 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:22:12 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 14:22:37,468 [JCO.ServerThread-1:] 92656 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:22:37 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:22:37 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Fri Nov 13 14:22:37 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:22:37 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-11-13 14:23:06,671 [JCO.ServerThread-1:] 121859 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:23:06 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:23:06 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Fri Nov 13 14:23:06 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:23:06 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-11-13 14:23:43,843 [JCO.ServerThread-1:] 159031 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:23:43 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:23:43 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+Server startup failed at Fri Nov 13 14:23:43 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:23:43 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2009-11-13 14:24:36,781 [JCO.ServerThread-1:] 211969 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:24:36 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:24:36 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+Server startup failed at Fri Nov 13 14:24:36 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:24:36 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+2009-11-13 14:26:01,875 [JCO.ServerThread-1:] 297063 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:26:01 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:26:01 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+Server startup failed at Fri Nov 13 14:26:01 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:26:01 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+2009-11-13 14:28:27,406 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 14:28:29,687 [main:] 3078 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 14:28:48,515 [JCO.ServerThread-1:] 21906 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:28:48 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:28:48 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 14:28:48 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:28:48 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 14:29:10,718 [JCO.ServerThread-1:] 44109 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:29:10 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:29:10 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 14:29:10 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:29:10 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 14:37:15,750 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 14:37:18,000 [main:] 3047 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 14:37:37,109 [JCO.ServerThread-1:] 22156 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:37:37 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:37:37 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 14:37:37 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:37:37 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 14:37:59,328 [JCO.ServerThread-1:] 44375 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:37:59 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:37:59 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 14:37:59 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:37:59 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 14:38:22,640 [JCO.ServerThread-1:] 67687 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:38:22 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:38:22 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 14:38:22 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:38:22 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 14:38:47,687 [JCO.ServerThread-1:] 92734 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:38:47 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:38:47 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Fri Nov 13 14:38:47 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:38:47 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-11-13 14:39:16,781 [JCO.ServerThread-1:] 121828 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:39:16 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:39:16 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Fri Nov 13 14:39:16 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:39:16 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-11-13 14:39:53,734 [JCO.ServerThread-1:] 158781 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:39:53 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:39:53 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+Server startup failed at Fri Nov 13 14:39:53 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:39:53 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2009-11-13 14:40:46,687 [JCO.ServerThread-1:] 211734 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:40:46 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:40:46 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+Server startup failed at Fri Nov 13 14:40:46 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:40:46 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+2009-11-13 14:42:11,781 [JCO.ServerThread-1:] 296828 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:42:11 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:42:11 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+Server startup failed at Fri Nov 13 14:42:11 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:42:11 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+2009-11-13 14:43:51,968 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 14:43:54,218 [main:] 3047 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 14:44:12,968 [JCO.ServerThread-1:] 21797 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:44:12 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:12 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 14:44:12 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:12 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 14:44:35,187 [JCO.ServerThread-1:] 44016 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:44:35 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:35 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 14:44:35 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:35 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 14:44:58,140 [JCO.ServerThread-1:] 66969 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:44:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 14:44:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:44:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 14:45:23,421 [JCO.ServerThread-1:] 92250 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:45:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:45:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Fri Nov 13 14:45:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:45:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-11-13 14:45:52,609 [JCO.ServerThread-1:] 121438 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:45:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:45:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Fri Nov 13 14:45:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:45:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-11-13 14:46:29,921 [JCO.ServerThread-1:] 158750 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:46:29 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:46:29 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+Server startup failed at Fri Nov 13 14:46:29 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:46:29 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2009-11-13 14:47:23,140 [JCO.ServerThread-1:] 211969 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:47:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:47:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+Server startup failed at Fri Nov 13 14:47:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:47:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+2009-11-13 14:48:48,265 [JCO.ServerThread-1:] 297094 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:48:48 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:48:48 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+Server startup failed at Fri Nov 13 14:48:48 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:48:48 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+2009-11-13 14:51:17,359 [JCO.ServerThread-1:] 446188 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:51:17 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 256 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:51:17 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     9
+Server startup failed at Fri Nov 13 14:51:17 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 256 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:51:17 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     9
+
+2009-11-13 14:55:54,421 [JCO.ServerThread-1:] 723250 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 14:55:54 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 512 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:55:54 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     10
+Server startup failed at Fri Nov 13 14:55:54 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 512 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 14:55:54 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     10
+
+2009-11-13 15:04:47,515 [JCO.ServerThread-1:] 1256344 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:04:47 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1024 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:04:47 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     11
+Server startup failed at Fri Nov 13 15:04:47 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1024 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:04:47 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     11
+
+2009-11-13 15:11:57,781 [main:] 781 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:12:00,000 [main:] 3000 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:12:19,109 [JCO.ServerThread-1:] 22109 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:12:19 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:12:19 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:12:19 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:12:19 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:12:41,453 [main:] 828 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:12:43,796 [main:] 3171 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:13:02,421 [JCO.ServerThread-1:] 21796 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:13:02 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:13:02 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:13:02 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:13:02 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:16:45,703 [main:] 813 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:16:47,921 [main:] 3031 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:17:06,796 [JCO.ServerThread-1:] 21906 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:17:06 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:17:06 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:17:06 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:17:06 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:17:29,937 [main:] 812 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:17:32,281 [main:] 3156 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:17:51,093 [JCO.ServerThread-1:] 21968 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:17:51 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:17:51 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:17:51 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:17:51 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:18:13,078 [JCO.ServerThread-1:] 43953 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:18:13 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:18:13 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 15:18:13 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:18:13 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 15:18:36,250 [JCO.ServerThread-1:] 67125 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:18:36 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:18:36 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 15:18:36 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:18:36 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 15:19:01,375 [JCO.ServerThread-1:] 92250 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:19:01 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:19:01 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Fri Nov 13 15:19:01 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:19:01 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-11-13 15:19:30,828 [JCO.ServerThread-1:] 121703 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:19:30 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:19:30 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Fri Nov 13 15:19:30 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:19:30 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-11-13 15:21:57,859 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:22:00,140 [main:] 3078 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:22:19,187 [JCO.ServerThread-1:] 22125 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:22:19 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:22:19 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:22:19 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:22:19 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:22:41,578 [JCO.ServerThread-1:] 44516 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:22:41 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:22:41 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 15:22:41 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:22:41 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 15:23:04,890 [JCO.ServerThread-1:] 67828 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:23:04 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:23:04 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 15:23:04 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:23:04 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 15:23:21,265 [main:] 781 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:23:23,515 [main:] 3031 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:23:42,437 [JCO.ServerThread-1:] 21953 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:23:42 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:23:42 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:23:42 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:23:42 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:24:04,500 [JCO.ServerThread-1:] 44016 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:24:04 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:04 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Fri Nov 13 15:24:04 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:04 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-11-13 15:24:27,468 [JCO.ServerThread-1:] 66984 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:24:27 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:27 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Fri Nov 13 15:24:27 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:27 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-11-13 15:24:52,421 [JCO.ServerThread-1:] 91937 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:24:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Fri Nov 13 15:24:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:24:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-11-13 15:25:21,500 [JCO.ServerThread-1:] 121016 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:25:21 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:25:21 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Fri Nov 13 15:25:21 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:25:21 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-11-13 15:25:58,593 [JCO.ServerThread-1:] 158109 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:25:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:25:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+Server startup failed at Fri Nov 13 15:25:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:25:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2009-11-13 15:26:51,843 [JCO.ServerThread-1:] 211359 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:26:51 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:26:51 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+Server startup failed at Fri Nov 13 15:26:51 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 64 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:26:51 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+2009-11-13 15:28:16,953 [JCO.ServerThread-1:] 296469 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:28:16 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:28:16 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+Server startup failed at Fri Nov 13 15:28:16 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 128 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:28:16 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     8
+
+2009-11-13 15:28:33,828 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:28:36,093 [main:] 3062 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:28:55,015 [JCO.ServerThread-1:] 21984 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Fri Nov 13 15:28:54 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:28:54 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Fri Nov 13 15:28:54 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host vaiodanilo
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Fri Nov 13 15:28:54 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-11-13 15:37:18,109 [main:] 766 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:37:20,406 [main:] 3063 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-11-13 15:38:50,562 [main:] 797 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-11-13 15:38:52,765 [main:] 3000 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-12-22 11:31:52,421 [main:] 469 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2009-12-22 11:31:56,124 [main:] 4172 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2009-12-22 11:32:13,546 [JCO.ServerThread-1:] 21594 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:32:13 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:13 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+Server startup failed at Tue Dec 22 11:32:13 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 1 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:13 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+2009-12-22 11:32:35,562 [JCO.ServerThread-1:] 43610 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:32:35 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:35 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+Server startup failed at Tue Dec 22 11:32:35 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 2 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:35 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+2009-12-22 11:32:58,530 [JCO.ServerThread-1:] 66578 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:32:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+Server startup failed at Tue Dec 22 11:32:58 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 4 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:32:58 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     3
+
+2009-12-22 11:33:23,468 [JCO.ServerThread-1:] 91516 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:33:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+Server startup failed at Tue Dec 22 11:33:23 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 8 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:23 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+2009-12-22 11:33:52,421 [JCO.ServerThread-1:] 120469 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:33:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+Server startup failed at Tue Dec 22 11:33:52 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 16 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:33:52 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     5
+
+2009-12-22 11:34:29,452 [JCO.ServerThread-1:] 157500 [ERROR] [br.com.golive.sap.server.ServerExceptionListener] - Erro ao se conectar com SAP. com.sap.mw.jco.JCO$Exception: (129) JCO_ERROR_SERVER_STARTUP: Server startup failed at Tue Dec 22 11:34:29 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:34:29 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+Server startup failed at Tue Dec 22 11:34:29 BRST 2009.
+This is caused by either a) erroneous server settings, b) the backend system has been shutdown, c) network problems. Will try next startup in 32 seconds.
+Connect to SAP gateway failed
+Connect_PM  TPNAME=TR118831ECPF, GWHOST=10.151.176.180, GWSERV=3300
+
+LOCATION    CPIC (TCP/IP) on local host mtznbtr118831
+ERROR       partner '10.151.176.180:3300' not reached
+
+TIME        Tue Dec 22 11:34:29 2009
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+2010-01-04 15:24:54,968 [main:] 593 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-01-04 15:24:57,593 [main:] 3218 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:14:18,592 [main:] 484 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:14:21,124 [main:] 3016 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:14:58,124 [main:] 235 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:15:00,421 [main:] 2532 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:15:30,280 [JCO.ServerThread-1:] 32391 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!
+2010-05-06 11:22:57,999 [main:] 219 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:23:00,311 [main:] 2531 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:24:57,061 [main:] 219 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:24:59,374 [main:] 2532 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:25:25,983 [main:] 219 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:25:28,280 [main:] 2516 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:26:07,155 [JCO.ServerThread-1:] 41391 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!
+2010-05-06 11:26:26,561 [JCO.ServerThread-1:] 60797 [WARN] [br.com.golive.sap.server.Server] - Fim do processamento do arquivo!
+2010-05-06 11:26:50,999 [main:] 219 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:26:53,311 [main:] 2531 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:26:59,999 [JCO.ServerThread-1:] 9219 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!
+2010-05-06 11:30:31,483 [JCO.ServerThread-1:] 220703 [WARN] [br.com.golive.sap.server.Server] - Fim do processamento do arquivo!
+2010-05-06 11:32:02,405 [main:] 234 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:32:04,733 [main:] 2562 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:33:33,639 [main:] 218 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 11:33:35,952 [main:] 2531 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 11:33:42,280 [JCO.ServerThread-1:] 8859 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!
+2010-05-06 11:34:50,217 [JCO.ServerThread-1:] 76796 [WARN] [br.com.golive.sap.server.Server] - Identificacao Procurador (U1)
+2010-05-06 11:34:51,186 [JCO.ServerThread-1:] 77765 [WARN] [br.com.golive.sap.server.Server] - ksType MSWINDOWS
+2010-05-06 11:34:54,342 [JCO.ServerThread-1:] 80921 [WARN] [br.com.golive.sap.server.Server] - certAlias NUNES, FERNANDA
+2010-05-06 11:34:58,467 [JCO.ServerThread-1:] 85046 [WARN] [br.com.golive.sap.server.Server] - Compress Arquivo
+2010-05-06 11:34:58,936 [JCO.ServerThread-1:] 85515 [ERROR] [br.com.golive.sap.server.Server] - java.lang.NullPointerException
+2010-05-06 15:15:56,608 [main:] 234 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 15:15:58,921 [main:] 2547 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 15:16:33,077 [JCO.ServerThread-1:] 36703 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!
+2010-05-06 15:27:50,639 [main:] 218 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Iniciado...
+2010-05-06 15:27:52,967 [main:] 2546 [INFO] [br.com.golive.token.TokenReader] - Golive Token Reader Inicializado com sucesso...
+2010-05-06 15:29:20,671 [JCO.ServerThread-1:] 90250 [WARN] [br.com.golive.sap.server.Server] - Inicio do processamento do arquivo!

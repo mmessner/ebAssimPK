@@ -1,0 +1,13 @@
+
+**** Trace file opened at , SAP-REL 710,0,0 RFC-VER nU 3 880476 MT-SL
+*> RfcAcceptExt: -g"192.168.1.25" -x"3300" -a"TR118831ECPF" -t
+*> RfcRegisterProgram ... 
+        Server Program ID     = TR118831ECPF
+        Host name of Gateway  = 192.168.1.25
+        Service of Gateway    = 3300
+        RFC-Trace             = ON
+        SNC Own Name          = 
+        SNC Library Name      = 
+        RFC Handle            = 1
+<* RfcRegisterProgram ended successfully
+<* RfcAcceptExt ended successfully [1] *>
